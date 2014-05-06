@@ -1,7 +1,7 @@
 {
   "name": "jsqrcode",
   "version": "0.0.1",
-  "homepage": "https://github.com/colkito/jsqrcode",
+  "homepage": "https://github.com/colkito/qrcode-decoder-js",
   "authors": [
     "Mario Colque <colquemario@gmail.com>"
   ],

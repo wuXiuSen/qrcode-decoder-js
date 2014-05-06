@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/colkito/jsqrcode.git"
+    "url": "git://github.com/colkito/qrcode-decoder-js.git"
   },
   "keywords": [
     "qr",
@@ -23,9 +23,9 @@
   },
   "license": "Apache",
   "bugs": {
-    "url": "https://github.com/colkito/jsqrcode/issues"
+    "url": "https://github.com/colkito/qrcode-decoder-js/issues"
   },
-  "homepage": "https://github.com/colkito/jsqrcode",
+  "homepage": "https://github.com/colkito/qrcode-decoder-js",
   "devDependencies": {
     "grunt-contrib-concat": "~0.4.0",
     "grunt-cli": "~0.1.13",
