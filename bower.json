@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/colkito/qrcode-decoder-js",
   "authors": [
+    "Lazar Laszlo",
     "Mario Colque <colquemario@gmail.com>"
   ],
   "description": "JS QR code decoder",

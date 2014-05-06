@@ -21,6 +21,15 @@
     "name": "Mario Colque",
     "email": "colquemario@gmail.com"
   },
+  "contributors": [ 
+    {
+      "name": "Lazar Laszlo"
+    },
+    {
+      "name": "Mario Colque",
+      "email": "colquemario@gmail.com"
+    }
+  ],
   "license": "Apache",
   "bugs": {
     "url": "https://github.com/colkito/qrcode-decoder-js/issues"
