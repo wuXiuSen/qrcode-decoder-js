@@ -1,7 +1,7 @@
 {
   "name": "jsqrcode",
   "version": "0.0.1",
-  "description": "JS QR code scanner",
+  "description": "JS QR code decoder",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,7 @@
     "qr",
     "code",
     "scanner",
+    "decoder",
     "js"
   ],
   "author": {
