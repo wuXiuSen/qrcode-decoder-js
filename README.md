@@ -7,6 +7,7 @@ Install
 -------
 Just run `$ bower install qrcode-decoder-js`
 
+Include the library `<script src="path/to/qrcode-decoder-js/lib/qrcode-decoder.min.js"></script>`
 
 Usage
 -----
@@ -18,7 +19,7 @@ Set `qrcode.callback` to function "func(data)", where data will get the decoded 
 
 Development
 -----------
-If you want improve the code and send your pull request, you will need:
+If you want to improve the code and send your pull request, you will need:
 
 Clone this repository
 
